@@ -1,0 +1,6 @@
+/* Q-Cars Platform Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles are already in index.html, this file satisfies Vite build requirements */
